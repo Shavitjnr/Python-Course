@@ -11,4 +11,4 @@ elif marks <60 and marks >= 50:
     grade = "D"
 elif marks <50 and marks >= 0:
     grade = "F"
-print("Your grade is:",grade)
+print("Your grade is:", grade) # type: ignore
