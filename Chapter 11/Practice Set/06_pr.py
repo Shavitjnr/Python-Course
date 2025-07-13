@@ -13,7 +13,7 @@ class Vactor:
         return result
     
     def __str__(self):
-        return f"Velocity({self.x}, {self.y}, {self.z})"
+        return f"{self.x}i + {self.y}j + {self.z}k"
     
 # Test the implementation
 v1 = Vactor(1, 2, 3)
