@@ -9,6 +9,6 @@ while(a != n):
     if(a >n):
         print("Low Number PLease")
     else:
-        print("Higher NUmber PLease")
+        print("Higher Number PLease")
 
 print(f"You have guesses the {n} correctly in {guesses} attempts.")
